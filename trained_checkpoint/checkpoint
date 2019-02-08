@@ -1,2 +1,2 @@
-model_checkpoint_path: "daily_stock_prediction_model_005930.ckpt"
-all_model_checkpoint_paths: "daily_stock_prediction_model_005930.ckpt"
+model_checkpoint_path: "daily_stock_prediction_model_test.ckpt"
+all_model_checkpoint_paths: "daily_stock_prediction_model_test.ckpt"
